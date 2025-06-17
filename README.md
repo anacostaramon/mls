@@ -28,9 +28,9 @@ Documentation material for the study "_(Not) Thinking about the Future: Financia
 - Treatment Video Transcript
   - English: https://anacostaramon.github.io/mls/Transcript_V_E.pdf
   - German (original): https://anacostaramon.github.io/mls/Transcript_V_G.pdf
-- Control Video 'Gender Pay Gap': https://www.srf.ch/play/tv/srf-news-videos/video/warum-frauen-weniger-lohn-bekommen-als-maenner?urn=urn:srf:video:c0ec751c-6127-4bd3-a693-8d2efdeb01aa [Minute 0:00 - 03:24]
-- Control Video 'Housing': https://www.srf.ch/play/tv/10-vor-10/video/mieten-oder-kaufen?urn=urn:srf:video:a2668754-0a52-464e-bac0-58a200b7d2d2 [Minute 9:52 - 14:58]
-- Control Video 'Tax Breaks': https://www.srf.ch/play/tv/tagesschau/video/steuer-kampagne-gegen-erhoehung-des-kinderabzugs?urn=urn:srf:video:a1eff946-2704-4a18-8236-71adbbd44b52 [Minute 20:39 - 22:40]
+- Control Video 'Gender Pay Gap' [(Minute 0:00 - 03:24)](https://www.srf.ch/play/tv/srf-news-videos/video/warum-frauen-weniger-lohn-bekommen-als-maenner?urn=urn:srf:video:c0ec751c-6127-4bd3-a693-8d2efdeb01aa)
+- Control Video 'Housing' [(Minute 9:52 - 14:58)](https://www.srf.ch/play/tv/10-vor-10/video/mieten-oder-kaufen?urn=urn:srf:video:a2668754-0a52-464e-bac0-58a200b7d2d2)
+- Control Video 'Tax Breaks' [(Minute 20:39 - 22:40)](https://www.srf.ch/play/tv/tagesschau/video/steuer-kampagne-gegen-erhoehung-des-kinderabzugs?urn=urn:srf:video:a1eff946-2704-4a18-8236-71adbbd44b52)
 
 **Documentation Financial Projections:**
 - Documentation Projection Tool (*Future Calculator*): https://anacostaramon.github.io/mls/doc_projectiontool.pdf
