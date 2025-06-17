@@ -1,4 +1,4 @@
-# (Not) Thinking about the Future: Inattention and Maternal Labor Supply
+# (Not) Thinking about the Future: Financial Awareness and Maternal Labor Supply
 Documentation material for the study "_(Not) Thinking about the Future: Financial Awareness and Maternal Labor Supply_", by [Ana Costa-Ramón](https://sites.google.com/view/anamariacostaramon), [Ursina Schaede](https://ursinaschaede.github.io/), [Michaela Slotwinski](https://sites.google.com/site/michaelaslotwinski/home), and [Anne Brenøe](https://sites.google.com/view/aabrenoe/home).
 
 **Survey Invitation:**
