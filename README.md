@@ -1,5 +1,5 @@
-# (Not) Thinking about the Future: Financial Awareness and Maternal Labor Supply
-Documentation material for the study "_(Not) Thinking about the Future: Financial Awareness and Maternal Labor Supply_", by [Ana Costa-Ramón](https://sites.google.com/view/anamariacostaramon), [Ursina Schaede](https://ursinaschaede.github.io/), [Michaela Slotwinski](https://sites.google.com/site/michaelaslotwinski/home), and [Anne Brenøe](https://sites.google.com/view/aabrenoe/home).
+# (Not) Thinking about the Future: Financial Information and Maternal Labor Supply
+Documentation material for the study "_(Not) Thinking about the Future: Financial Information and Maternal Labor Supply_", by [Ana Costa-Ramón](https://sites.google.com/view/anamariacostaramon), [Ursina Schaede](https://ursinaschaede.github.io/), [Michaela Slotwinski](https://sites.google.com/site/michaelaslotwinski/home), and [Anne Brenøe](https://sites.google.com/view/aabrenoe/home).
 
 **Survey Invitation:**
 - Invitation Email RCT Wave 1: [English](https://anacostaramon.github.io/mls/Invitation_email_w1_E.pdf), [German (original)](https://anacostaramon.github.io/mls/Invitation_email_w1_G.pdf)
